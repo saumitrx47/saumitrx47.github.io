@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code (local session data — not needed in version control)
+.claude/local-agent-mode-sessions/
+
+# Logs
+*.log
